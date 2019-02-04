@@ -1,3 +1,6 @@
+// Credit for most of this goes to Cine-Lights  
+// Check out the channel at : https://www.youtube.com/channel/UCOG6Bi2kvpDa1c8gHWZI5CQ/videos  
+
 #include <Adafruit_NeoPixel.h>
 #include <FastLED.h> 
 #include "water_torture.h"
